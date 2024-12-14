@@ -71,20 +71,21 @@
       "position": "AI Evaluator",
       "location": "Birmingham, ENG",
       "startDate": "09/2024",
-      "summary": "Developed and optimised content accuracy checks for AI-generated text across multiple subjects and fields.",
+      "summary": "Optimised content accuracy checks for AI-generated text across multiple subjects and fields.",
       "highlights": [
-        "Analysed AI responses for bias, inaccuracies, and potential harm, utilising advanced research and data verification tools.",
-        "Generated strategic recommendations for refining responses to enhance clarity, reliability, and user relevance."
+        "Analysed AI responses for bias, inaccuracies, and potential harm using advanced research and data verification tools.",
+        "Developed strategic recommendations to refine AI-generated responses, enhancing clarity, reliability, and user relevance."
       ]
     },
     {
-      "name": "University Of Warwick",
+      "name": "University of Warwick",
       "position": "Student Ambassador",
       "location": "Coventry, ENG",
       "startDate": "01/2023",
-      "summary": "Promoted Warwick's academic and cultural environment to prospective students, effectively boosting engagement in recruitment events.",
+      "summary": "Promoted Warwick's academic and cultural environment to prospective students.",
       "highlights": [
-        "Aided with student recruitment by leading talks and campus tours."
+        "Boosted engagement in recruitment events through talks and campus tours.",
+        "Contributed to student recruitment by sharing insights and experiences about university life."
       ]
     },
     {
@@ -93,10 +94,10 @@
       "location": "London, ENG",
       "startDate": "09/2022",
       "endDate": "09/2023",
-      "summary": "Marketing specialist helping tech firms connect with senior executives.",
+      "summary": "Specialised in marketing to help tech firms connect with senior executives.",
       "highlights": [
-        "Generated new leads and built searches using LinkedIn Sales Navigator, contributing to a 12% increase in Pathfinder membership.",
-        "Developed relationships with C-Suite executives, enhancing community awareness and promoting services, leading to a 14% increase in engagement."
+        "Generated new leads and conducted targeted searches using LinkedIn Sales Navigator, contributing to a 12% increase in Pathfinder membership.",
+        "Built relationships with C-Suite executives to promote services and enhance community awareness, resulting in a 14% increase in engagement."
       ]
     },
     {
@@ -105,21 +106,70 @@
       "location": "Cairo, EGY",
       "startDate": "08/2022",
       "endDate": "09/2022",
-      "summary": "Analysed data sets provided by CAPMAS to assess financial risk- using Microsoft Excel and SQL.",
+      "summary": "Contributed to financial risk assessments and supported policy development.",
       "highlights": [
-        "Synthesised economic research into comprehensive reports, supporting senior economists in policy development.",
-        "Demonstrated adaptability in a high-pressure environment, successfully meeting tight deadlines and contributing to key economic talks."
+        "Analysed data sets provided by CAPMAS using Microsoft Excel and SQL to assess financial risks.",
+        "Synthesised economic research into reports, supporting senior economists in policy discussions.",
+        "Adapted quickly to a high-pressure environment, meeting tight deadlines and contributing to key economic talks."
+      ]
+    },
+    {
+      "name": "ATEB Group",
+      "position": "Human Resources Coordinator",
+      "location": "Alexandria, EGY",
+      "startDate": "07/2021",
+      "endDate": "09/2021",
+      "summary": "Provided recruitment and payroll audit support for a logistics, engineering, and trading company.",
+      "highlights": [
+        "Streamlined payroll audits using SAP SuccessFactors, ensuring compliance and accuracy.",
+        "Assisted with the recruitment process, including posting job ads, screening applications, scheduling interviews, and drafting offer letters."
+      ]
+    },
+    {
+      "name": "Badie and Partners",
+      "position": "Legal Assistant",
+      "location": "Alexandria, EGY",
+      "startDate": "06/2019",
+      "endDate": "08/2019",
+      "summary": "Conducted legal research and supported corporate law cases, specialising in M&A.",
+      "highlights": [
+        "Performed in-depth research and analysis in both English and Arabic to support eight legal cases.",
+        "Managed sensitive client accounts and records while maintaining confidentiality standards."
+      ]
+    },
+    {
+      "name": "SeeThru Magazine",
+      "position": "Editorial Intern",
+      "location": "Alexandria, EGY",
+      "startDate": "05/2017",
+      "endDate": "06/2017",
+      "summary": "Collaborated with writers to develop engaging content for publication.",
+      "highlights": [
+        "Conducted interviews for feature stories to add diverse perspectives to the magazine's narrative.",
+        "Enhanced story quality by assisting with research and development."
       ]
     }
-  ],
+],
   "volunteer": [
     {
       "organization": "Warwick Centre of Interdisciplinary Methodologies SSLC",
       "position": "EDI Representative",
       "startDate": "10/2023",
-      "summary": "Established the department's inaugural EDI subcommittee, spearheading initiatives to decolonise the curriculum and infuse diversity and inclusivity within the MA in Digital Media and Culture, MSc in Big Data and Digital Futures, and MASc in Data Visualisation programmes.",
+      "summary": "Led initiatives to foster equity, diversity, and inclusivity (EDI) within interdisciplinary academic programmes.",
       "highlights": [
-        "Led workshops and sessions aimed at making data science practices more accessible and inclusive, advancing the establishment of an equitable academic community and enhancing learning environments for a diverse cohort of students."
+        "Established the department's inaugural EDI subcommittee to decolonise the curriculum and promote inclusivity within the MA in Digital Media and Culture, MSc in Big Data and Digital Futures, and MASc in Data Visualisation programmes.",
+        "Organised workshops and sessions to make data science practices more accessible and inclusive, fostering an equitable academic community and enhancing learning environments for diverse students."
+      ]
+    },
+    {
+      "organization": "Warwick Arabic Society",
+      "position": "Secretary",
+      "startDate": "02/2022",
+      "endDate": "01/2023",
+      "summary": "Supported the society's operations by managing communications and administrative tasks.",
+      "highlights": [
+        "Sent weekly communications and memos to members, ensuring clear and consistent engagement.",
+        "Maintained invoices, managed schedules, and provided administrative support to streamline the society's activities."
       ]
     }
   ],
