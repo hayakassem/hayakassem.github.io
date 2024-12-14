@@ -9,181 +9,217 @@
     "location": {
       "city": "Coventry",
       "region": "United Kingdom"
-    },
+    }
   },
+  "education": [
+    {
+      "institution": "University of Warwick",
+      "area": "Big Data And Digital Futures",
+      "studyType": "MSc",
+      "startDate": "2023",
+      "endDate": "2024",
+      "score": "Distinction",
+      "summary": "Awarded a Distinction, and recognised for best overall performance on the course. Final Portfolio invited to be used in promotional materials by the University of Warwick.",
+      "highlights": [
+        "Demonstrated comprehensive understanding of data science theories, ethical considerations, and practical applications, including advanced techniques in web scraping and data mining, using R, SQL and Python with a focus on generative AI.",
+        "Developed proficiency in creating impactful visualisations using R and Python, emphasising critical analysis from ethical, aesthetic, and methodological perspectives.",
+        "Exhibited a practical ability to comprehend and engage with the technical intricacies of large-scale technological ecosystems, spanning from distributed data processing to decentralised blockchain systems."
+      ]
+    },
+    {
+      "institution": "University of Warwick",
+      "area": "Philosophy, Politics and Economics",
+      "studyType": "BA (with honours)",
+      "startDate": "2020",
+      "endDate": "2023",
+      "score": "First Class Honours",
+      "highlights": [
+        "Acquired proficiency in Stata, LaTeX, and MathType within Computing and Data Analysis modules, significantly enhancing my analytical skill set.",
+        "Demonstrated proficiency in Python through independent learning, culminating in an undergraduate dissertation recognised with a bursary award for its innovative theoretical and methodological approaches.",
+        "Focused on Middle Eastern and US politics, Consumer Cultures in Global Capitalism, Principles of the Political Economy, and Terrorism and Counterterrorism."
+      ]
+    },
+    {
+      "institution": "University of Warwick",
+      "area": "Social Sciences",
+      "studyType": "Warwick IFP",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "Distinction (84%)",
+      "highlights": [
+        "Developed strong research skills by taking an Inquiry and Research Skills module."
+      ]
+    },
+    {
+      "institution": "The British School, Alexandria",
+      "studyType": "Secondary Education",
+      "startDate": "2015",
+      "endDate": "2019",
+      "highlights": [
+        "AS levels: Maths (A), Physics (A), History (A), Arabic (A).",
+        "GCSEs: 8 (A*), including Maths (A*), English as a First Language (A*), French (A*)."
+      ]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Outlier",
+      "position": "AI Evaluator",
+      "location": "Birmingham, ENG",
+      "startDate": "09/2024",
+      "summary": "Developed and optimised content accuracy checks for AI-generated text across multiple subjects and fields.",
+      "highlights": [
+        "Analysed AI responses for bias, inaccuracies, and potential harm, utilising advanced research and data verification tools.",
+        "Generated strategic recommendations for refining responses to enhance clarity, reliability, and user relevance."
+      ]
+    },
+    {
+      "name": "University Of Warwick",
+      "position": "Student Ambassador",
+      "location": "Coventry, ENG",
+      "startDate": "01/2023",
+      "summary": "Promoted Warwick's academic and cultural environment to prospective students, effectively boosting engagement in recruitment events.",
+      "highlights": [
+        "Aided with student recruitment by leading talks and campus tours."
+      ]
+    },
+    {
+      "name": "Seraph Science",
+      "position": "Outreach Executive",
+      "location": "London, ENG",
+      "startDate": "09/2022",
+      "endDate": "09/2023",
+      "summary": "Marketing specialist helping tech firms connect with senior executives.",
+      "highlights": [
+        "Generated new leads and built searches using LinkedIn Sales Navigator, contributing to a 12% increase in Pathfinder membership.",
+        "Developed relationships with C-Suite executives, enhancing community awareness and promoting services, leading to a 14% increase in engagement."
+      ]
+    },
+    {
+      "name": "The Central Bank of Egypt",
+      "position": "Macroprudential and Monetary Policy Intern",
+      "location": "Cairo, EGY",
+      "startDate": "08/2022",
+      "endDate": "09/2022",
+      "summary": "Analysed data sets provided by CAPMAS to assess financial risk- using Microsoft Excel and SQL.",
+      "highlights": [
+        "Synthesised economic research into comprehensive reports, supporting senior economists in policy development.",
+        "Demonstrated adaptability in a high-pressure environment, successfully meeting tight deadlines and contributing to key economic talks."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "organization": "Warwick Centre of Interdisciplinary Methodologies SSLC",
+      "position": "EDI Representative",
+      "startDate": "10/2023",
+      "summary": "Established the department's inaugural EDI subcommittee, spearheading initiatives to decolonise the curriculum and infuse diversity and inclusivity within the MA in Digital Media and Culture, MSc in Big Data and Digital Futures, and MASc in Data Visualisation programmes.",
+      "highlights": [
+        "Led workshops and sessions aimed at making data science practices more accessible and inclusive, advancing the establishment of an equitable academic community and enhancing learning environments for a diverse cohort of students."
+      ]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "IT Skills",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Microsoft Office Suite (Word, Excel, PowerPoint)",
+        "Canva",
+        "Stata",
+        "LaTeX",
+        "SAP SuccessFactors",
+        "MathType",
+        "Microsoft Azure",
+        "Apache Spark",
+        "Shiny",
+        "GitHub",
+        "SQL",
+        "Python",
+        "R"
+      ]
+    },
+    {
+      "name": "Quantitative Skills",
+      "keywords": [
+        "Strong foundation in mathematical and statistical analysis",
+        "Capable of handling complex data with accuracy and efficiency"
+      ]
+    },
+    {
+      "name": "Qualitative Skills",
+      "keywords": [
+        "Demonstrate keen observational abilities",
+        "Adeptness in developing strategies, utilising creative and critical thinking to solve problems"
+      ]
+    },
+    {
+      "name": "Communication Skills",
+      "keywords": [
+        "Effective in both verbal and written communication",
+        "Skilled at presenting complex ideas clearly and engagingly"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Arabic",
+      "fluency": "Native Tongue"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Native/Bilingual Proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Limited Working Proficiency"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Emerging Technologies",
+      "keywords": ["AI Ethics", "Global Socioeconomic Trends"]
     }
   ],
-  "references": [
+  "awards": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "title": "Pearson Edexcel Outstanding Learners Award",
+      "date": "2018",
+      "summary": "Awarded for the highest mark in Africa in IGCSE History."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "title": "Outstanding Cambridge Learner Award",
+      "date": "2018",
+      "summary": "Awarded for achieving the highest mark in Alexandria in IGCSE English."
+    },
+    {
+      "title": "COBIS Student Achievement Award",
+      "date": "2019",
+      "summary": "Awarded for exceptional academic achievement across all subjects."
+    },
+    {
+      "title": "CIM Bursary Award For Exceptional Students",
+      "date": "2023",
+      "summary": "Awarded for outstanding performance during undergraduate studies, supporting the pursuit of MSc studies at Warwick."
+    },
+    {
+      "title": "CIM Award for Excellence",
+      "date": "2024",
+      "summary": "Awarded for the best Overall Performance in MSc Big Data and Digital Futures."
     }
   ],
-  "projects": [
+  "certificates": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Accenture Strategy Consulting Virtual Experience",
+      "date": "2024",
+      "issuer": "Accenture",
+      "credentialID": "MMf3YG4rCpoHm5wHM"
+    },
+    {
+      "name": "Lululemon Omnichannel Marketing Virtual Experience Program",
+      "date": "2024",
+      "issuer": "Lululemon",
+      "credentialID": "XSqhNPKDkFrBs9Meh"
     }
   ]
 }
+
