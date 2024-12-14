@@ -68,9 +68,5 @@ Coventry, UK <br>
 <a href="https://www.linkedin.com/in/haya-kassem-96b791247" target="_blank">LinkedIn</a>
 </p>
 
----
 
-# Uncomment to enable specific features:
-# - Add phone number or office details under profile
-# - Set `news: true` or `selected_papers: true` for additional sections
 
