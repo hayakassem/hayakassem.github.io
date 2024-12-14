@@ -18,12 +18,12 @@
       "studyType": "MSc",
       "startDate": "2023",
       "endDate": "2024",
-      "score": "Distinction",
-      "summary": "Awarded a Distinction, and recognised for best overall performance on the course. Final Portfolio invited to be used in promotional materials by the University of Warwick.",
+      "grade": "Distinction",
+      "summary": "Recognised for best overall performance on the course. Final portfolio invited to be used in promotional materials by the University of Warwick.",
       "highlights": [
-        "Demonstrated comprehensive understanding of data science theories, ethical considerations, and practical applications, including advanced techniques in web scraping and data mining, using R, SQL and Python with a focus on generative AI.",
-        "Developed proficiency in creating impactful visualisations using R and Python, emphasising critical analysis from ethical, aesthetic, and methodological perspectives.",
-        "Exhibited a practical ability to comprehend and engage with the technical intricacies of large-scale technological ecosystems, spanning from distributed data processing to decentralised blockchain systems."
+        "Developed a comprehensive understanding of data science theories, ethical considerations, and practical applications, including advanced techniques in web scraping and data mining, using R, SQL, and Python with a focus on generative AI.",
+        "Gained proficiency in creating impactful visualisations using R and Python, with critical analysis from ethical, aesthetic, and methodological perspectives.",
+        "Engaged with the technical intricacies of large-scale technological ecosystems, including distributed data processing and decentralised blockchain systems."
       ]
     },
     {
@@ -32,11 +32,11 @@
       "studyType": "BA (with honours)",
       "startDate": "2020",
       "endDate": "2023",
-      "score": "First Class Honours",
+      "grade": "First Class Honours",
+      "summary": "Graduated with a focus on Middle Eastern and US politics, Consumer Cultures in Global Capitalism, Principles of the Political Economy, and Terrorism and Counterterrorism.",
       "highlights": [
         "Acquired proficiency in Stata, LaTeX, and MathType within Computing and Data Analysis modules, significantly enhancing my analytical skill set.",
-        "Demonstrated proficiency in Python through independent learning, culminating in an undergraduate dissertation recognised with a bursary award for its innovative theoretical and methodological approaches.",
-        "Focused on Middle Eastern and US politics, Consumer Cultures in Global Capitalism, Principles of the Political Economy, and Terrorism and Counterterrorism."
+        "Advanced my Python skills through independent learning, culminating in an undergraduate dissertation recognised with a bursary award for innovative theoretical and methodological approaches."
       ]
     },
     {
@@ -45,22 +45,26 @@
       "studyType": "Warwick IFP",
       "startDate": "2019",
       "endDate": "2020",
-      "score": "Distinction (84%)",
+      "grade": "Distinction (84%)",
+      "summary": "Developed strong research skills and enhanced my understanding of research methodologies.",
       "highlights": [
-        "Developed strong research skills by taking an Inquiry and Research Skills module."
+        "Completed an Inquiry and Research Skills module to build foundational research abilities."
       ]
     },
     {
       "institution": "The British School, Alexandria",
+      "area": "AS Levels and GCSEs",
       "studyType": "Secondary Education",
       "startDate": "2015",
       "endDate": "2019",
+      "grade": "AS Levels: Maths (A), Physics (A), History (A), Arabic (A); GCSEs: 8 (A*).",
+      "summary": "Achieved excellent academic results across multiple subjects.",
       "highlights": [
-        "AS levels: Maths (A), Physics (A), History (A), Arabic (A).",
-        "GCSEs: 8 (A*), including Maths (A*), English as a First Language (A*), French (A*)."
+        "AS Levels: Maths (A), Physics (A), History (A), Arabic (A).",
+        "GCSEs: 8 (A*), including Maths (A*), English as a First Language (A*), and French (A*)."
       ]
     }
-  ],
+],
   "work": [
     {
       "name": "Outlier",
