@@ -2,22 +2,21 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Coventry, UK. <a href='mailto:hayakassem@yahoo.com'>Contact Me</a>. Always exploring the intersection of data, society, and ethics.
+subtitle: "<a href='#'>Affiliations</a>. Coventry, UK. <a href='mailto:hayakassem@yahoo.com'>Contact Me</a>. Always exploring the intersection of data, society, and ethics."
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    {% comment %}
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-    {% endcomment %}
+  more_info: |
+    # Uncomment and replace if needed:
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
-news: {% comment %}true{% endcomment %}
-selected_papers: {% comment %}true{% endcomment %}
-social: true
+news: false # Set to true if news should be included
+selected_papers: false # Set to true to include selected papers
+social: true # Includes social icons at the bottom of the page
 ---
 
 ## Biography
@@ -71,10 +70,7 @@ Coventry, UK <br>
 
 ---
 
-{% comment %}
-Unused Elements (For Future Use):
-- Add phone number or office details under the profile section
-- Enable news and selected papers if desired
-- Include links to GitHub, Google Scholar, or other profiles
-{% endcomment %}
+# Uncomment to enable specific features:
+# - Add phone number or office details under profile
+# - Set `news: true` or `selected_papers: true` for additional sections
 
