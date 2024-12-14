@@ -8,11 +8,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: |
-    # Uncomment and replace if needed:
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+ more_info: |
+  # Uncomment and replace if needed:
+  # <p>Office Number: 555-1234</p>
+  # <p>Address: 123 Your Address Street</p>
+  # <p>City, State 12345</p>
+  
 
 news: false # Set to true if news should be included
 selected_papers: false # Set to true to include selected papers
