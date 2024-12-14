@@ -7,12 +7,7 @@ subtitle: " Coventry, UK. <a href='mailto:hayakassem@yahoo.com'>Contact Me</a>. 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
-  more_info: |
-    # Uncomment and replace if needed:
-    # <p>Office Number: 555-1234</p>
-    # <p>Address: 123 Your Address Street</p>
-    # <p>City, State 12345</p>
+  image_circular: false 
   
 news: false # Set to true if news should be included
 selected_papers: false # Set to true to include selected papers
@@ -21,15 +16,15 @@ social: true # Includes social icons at the bottom of the page
 
 ## Biography
 
-Hello, I’m **Haya Kassem**, a multidisciplinary researcher and data scientist committed to harnessing emerging technologies for social good. My academic and professional journey centres on exploring[...]
+Hello, I’m **Haya Kassem**, a multidisciplinary researcher and data scientist committed to harnessing emerging technologies for social good. My academic and professional journey centres on exploring the intersection of technology, society, and ethics, with a focus on data science, artificial intelligence (AI), and their broader societal impacts.
 
-With a **Distinction-awarded MSc in Big Data and Digital Futures** from the University of Warwick, I’ve developed advanced technical skills in Python, R, and SQL, alongside a critical understanding [...]
+With a **Distinction-awarded MSc in Big Data and Digital Futures** from the University of Warwick, I’ve developed advanced technical skills in Python, R, and SQL, alongside a critical understanding of the ethical and methodological challenges posed by generative AI and large-scale data ecosystems. My final portfolio was recognised as exemplary work, selected for use in promotional materials by Warwick.
 
-Currently, I work as an **AI Evaluator**, where I assess large language models (LLMs) for bias, inaccuracies, and user relevance. My professional journey also includes roles in financial risk assessme[...]
+Currently, I work as an **AI Evaluator**, where I assess large language models (LLMs) for bias, inaccuracies, and user relevance. My professional journey also includes roles in financial risk assessment, data analysis, and policy research, where I have collaborated with diverse teams and senior stakeholders on high-impact projects.
 
-Beyond technical expertise, I am passionate about **creating equitable spaces within technology and academia**. As the Equality, Diversity, and Inclusion (EDI) Representative for my department, I led [...]
+Beyond technical expertise, I am passionate about **creating equitable spaces within technology and academia**. As the Equality, Diversity, and Inclusion (EDI) Representative for my department, I led initiatives to decolonise the curriculum and foster inclusivity in data science programmes, earning recognition for collaborative workshops and actionable solutions.
 
-I also conduct research on pressing global challenges such as climate justice, migration policy, and systemic digital inequalities, integrating theoretical frameworks with varied research methodologie[...]
+I also conduct research on pressing global challenges such as climate justice, migration policy, and systemic digital inequalities, integrating theoretical frameworks with varied research methodologies.
 
 ---
 
