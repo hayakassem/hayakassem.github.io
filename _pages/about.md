@@ -1,7 +1,8 @@
+---
 layout: about
 title: About
 permalink: /
-subtitle: "<a href='#'>Affiliations</a>. Coventry, UK. <a href='mailto:hayakassem@yahoo.com'>Contact Me</a>. Always exploring the intersection of data, society, and ethics."
+subtitle: " Coventry, UK. <a href='mailto:hayakassem@yahoo.com'>Contact Me</a>. Always exploring the intersection of data, society, and ethics."
 
 profile:
   align: right
