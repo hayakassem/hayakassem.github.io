@@ -2,12 +2,12 @@
 layout: page
 permalink: /papers/
 title: Papers
-description: List of university papers.
+description: List of written papers in chronological order.
 nav: true
 nav_order: 2
 ---
 
-## My University Papers
+## My Past Research
 
 - [Colonial Platform Gaslighting: Meta’s Automated Silencing of Palestinian Narratives (2024)](../assets/papers/Colonial Platform Gaslighting- Meta’s Automated Silencing of Palestinian Narratives.pdf)
 - [Inequality at Scale: Unpacking the causes and consequences of Instagram’s Network Distribution (2024)](../assets/papers/Inequality at Scale, Unpacking the causes and consequences of Instagram’s Network Distribution.pdf)
