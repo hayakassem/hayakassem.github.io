@@ -2,7 +2,7 @@
 layout: page
 permalink: /papers/
 title: Papers
-description: List of written papers in reversed chronological order
+description: List of written papers in reverse chronological order.
 nav: true
 nav_order: 2
 ---
@@ -10,11 +10,13 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
+
 {% include bib_search.liquid %}
 
----
+<div class="publications">
 
-## My University Papers
+
+## My Past Research 
 
 ### 2024
 
@@ -30,7 +32,6 @@ nav_order: 2
 - **[What Role Do Algorithms Play in Shaping What We Know of the World?](../assets/papers/What role do algorithms play in shaping what we know of the world.pdf)**  
   *This essay delves into the influence of algorithms on public knowledge, arguing that they actively construct societal understanding by amplifying dominant narratives and erasing marginalised voices. Using feminist epistemology and critical race theory, it critiques algorithmic biases and their broader implications for knowledge production.*
 
----
 
 ### 2023
 
@@ -55,7 +56,6 @@ nav_order: 2
 - **[Is It Excessively Charitable to Describe Terrorists as Rational Agents?](../assets/papers/Is it excessively charitable to describe terrorists as rational agents.pdf)**  
   *This philosophical analysis argues that terrorists can be rational agents, employing a virtue-theoretic framework to evaluate their decision-making processes. It challenges simplistic stereotypes by highlighting the role of context in shaping rationality.*
 
----
 
 ### 2022
 
