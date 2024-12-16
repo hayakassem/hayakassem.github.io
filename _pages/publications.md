@@ -2,10 +2,18 @@
 layout: page
 permalink: /papers/
 title: Papers
-description: List of written papers in chronological order.
+description: List of written papers in reverse chronological order.
 nav: true
 nav_order: 2
 ---
+
+<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
+<div class="publications">
 
 ## My Past Research
 
@@ -22,3 +30,5 @@ nav_order: 2
 - [Is it excessively charitable to describe terrorists as rational agents (2023)](../assets/papers/Is it excessively charitable to describe terrorists as rational agents.pdf)
 - [Are we morally responsible for our implicit biases (2022)](../assets/papers/Are we morally responsible for our implicit biases.pdf)
 - [Is virtue ethics a self-effacing theory (2022)](../assets/papers/Is virtue ethics a self-effacing theory.pdf)
+
+</div>
