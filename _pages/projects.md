@@ -3,7 +3,7 @@ layout: page
 title: Visualisations
 permalink: /visualisations/
 description: A collection of my data visualisations, design manifesto, and portfolio featured by the University of Warwick for promotional materials.
-nav: true
+nav: false
 nav_order: 3
 ---
 
