@@ -11,7 +11,7 @@ nav_order: 3
 
 ### Visualisation Showcase
 
-This page showcases my **data visualisations**, a thoughtfully crafted **Design Manifesto** outlining inclusive design principles, and a **Portfolio** of work recognized and featured by the **University of Warwick** for their promotional materials. Each project addresses critical topics such as gender divides, economic inequities, and electoral outcomes, combining impactful storytelling with meaningful data.
+This page showcases a sample of my **data visualisations**, a thoughtfully crafted **Design Manifesto** outlining inclusive design principles, and a **Portfolio** of work recognised and featured by the **University of Warwick**.
 
 <div class="row row-cols-1 row-cols-md-3">
   <div class="col mb-4">
@@ -49,7 +49,7 @@ This page showcases my **data visualisations**, a thoughtfully crafted **Design 
           A data-driven exploration of the ideological gender divide in voting patterns 
           during the 2020 US presidential election, emphasizing reproductive rights.
         </p>
-        <a href="../assets/visualisations/Mapping_An_Electoral_Sex_Divide.pdf" class="btn btn-primary">Read PDF</a>
+        <a href="../assets/visualisations/Mapping%20An%20Electoral%20Sex%20Divide.pdf" class="btn btn-primary">Read PDF</a>
       </div>
     </div>
   </div>
@@ -62,11 +62,10 @@ This page showcases my **data visualisations**, a thoughtfully crafted **Design 
           An analysis of the economic disparity caused by the Pink Tax and Period Tax, 
           focusing on global policy variations and gendered pricing structures.
         </p>
-        <img src="../assets/visualisations/Visualising_the_Gender_Price_Gap.png" class="img-fluid" alt="Visualising the Gender Price Gap">
+        <img src="../assets/visualisations/Visualising%20the%20Gender%20Price%20Gap.png" class="img-fluid" alt="Visualising the Gender Price Gap">
       </div>
     </div>
   </div>
 </div>
 
 </div>
-
