@@ -30,7 +30,7 @@ This page features my **data visualisations**, an **inclusive Design Manifesto**
 ## Mapping an Electoral Sex Divide
 *Description*: A data-driven exploration of ideological gender divides in voting patterns during the 2020 US presidential election, with a focus on reproductive rights.
 
-![Preview of Mapping an Electoral Sex Divide](/assets/visualisations/Mapping_Electoral_Sex_Divide_Preview.png)
+![Preview of Mapping an Electoral Sex Divide](/assets/visualisations/Visualisation1.png)
 
 [View Mapping an Electoral Sex Divide (PDF)](/assets/visualisations/Mapping%20An%20Electoral%20Sex%20Divide.pdf)
 
@@ -39,6 +39,6 @@ This page features my **data visualisations**, an **inclusive Design Manifesto**
 ## Visualising the Gender Price Gap
 *Description*: An analysis of the economic disparity caused by the Pink Tax and Period Tax, focusing on global policy variations and gendered pricing structures.
 
-![Visualising the Gender Price Gap](/assets/visualisations/Visualisation1.png)
+![Visualising the Gender Price Gap](/assets/visualisations/Visualising%20the%20Gender%20Price%20Gap.png)
 
 [View the Full Image](../assets/visualisations/Visualising%20the%20Gender%20Price%20Gap.png)
