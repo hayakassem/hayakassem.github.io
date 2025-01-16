@@ -28,7 +28,7 @@ nav_order: 3
 ## Mapping an Electoral Sex Divide
 *Description*: A data-driven exploration of ideological gender divides in voting patterns during the 2020 US presidential election, with a focus on reproductive rights.
 
-<img src="/assets/visualisations/Visualisation1" alt="Preview of Mapping an Electoral Sex Divide" style="max-width: 300px; height: auto;">
+<img src="/assets/visualisations/Visualisation1.png" alt="Preview of Mapping an Electoral Sex Divide" style="max-width: 300px; height: auto;">
 
 [View Mapping an Electoral Sex Divide (PDF)](/assets/visualisations/Mapping%20An%20Electoral%20Sex%20Divide.pdf)
 
