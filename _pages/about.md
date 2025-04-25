@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: " Coventry, UK. <a href='mailto:hayakassem@yahoo.com'>Contact Me</a>. Always exploring the intersection of data, society, and ethics."
+subtitle: " London, UK. <a href='mailto:hayakassem@yahoo.com'>Contact Me</a>. Always exploring the intersection of data, society, and ethics."
 
 profile:
   align: right
@@ -16,7 +16,7 @@ social: true # Includes social icons at the bottom of the page
 
 ## Biography
 
-Hello, I’m **Haya Kassem**, a multidisciplinary researcher and data scientist committed to harnessing emerging technologies for social good. My academic and professional journey centres on exploring the intersection of technology, society, and ethics, with a focus on data science, artificial intelligence (AI), and their broader societal impacts.
+I’m **Haya Kassem**, a multidisciplinary researcher and data scientist committed to harnessing emerging technologies for social good. My academic and professional journey centres on exploring the intersection of technology, society, and ethics, with a focus on data science, artificial intelligence (AI), and their broader societal impacts.
 
 With a **Distinction-awarded MSc in Big Data and Digital Futures** from the University of Warwick, I’ve developed advanced technical skills in Python, R, and SQL, alongside a critical understanding of the ethical and methodological challenges posed by generative AI and large-scale data ecosystems. My final portfolio was recognised as exemplary work, selected for use in promotional materials by Warwick.
 
@@ -58,7 +58,7 @@ I also conduct research on pressing global challenges such as climate justice, m
 ## Contact
 
 <p>
-Coventry, UK <br>
+London, UK <br>
 <a href="mailto:hayakassem@yahoo.com">hayakassem@yahoo.com</a> <br>
 <a href="https://www.linkedin.com/in/haya-kassem-96b791247" target="_blank">LinkedIn</a>
 </p>
