@@ -20,7 +20,7 @@ I’m **Haya Kassem**, a multidisciplinary researcher and data scientist committ
 
 With a **Distinction-awarded MSc in Big Data and Digital Futures** from the University of Warwick, I’ve developed advanced technical skills in Python, R, and SQL, alongside a critical understanding of the ethical and methodological challenges posed by generative AI and large-scale data ecosystems. My final portfolio was recognised as exemplary work, selected for use in promotional materials by Warwick.
 
-Currently, I work as an **AI Evaluator**, where I assess large language models (LLMs) for bias, inaccuracies, and user relevance. My professional journey also includes roles in financial risk assessment, data analysis, and policy research, where I have collaborated with diverse teams and senior stakeholders on high-impact projects.
+Currently, I work as a **Compliance and Anti-financial Crime analyst** for an investment bank, where I am focused on ethical AI adoption and leveraging data to highlight risks and challenges.
 
 Beyond technical expertise, I am passionate about **creating equitable spaces within technology and academia**. As the Equality, Diversity, and Inclusion (EDI) Representative for my department, I led initiatives to decolonise the curriculum and foster inclusivity in data science programmes, earning recognition for collaborative workshops and actionable solutions.
 
