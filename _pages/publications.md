@@ -3,7 +3,7 @@ layout: page
 permalink: /papers/
 title: Papers
 description: List of written papers in reverse chronological order.
-nav: true
+nav: false
 nav_order: 2
 ---
 
